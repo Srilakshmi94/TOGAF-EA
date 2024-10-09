@@ -13,7 +13,7 @@ For a retail business, EA might encompass everything from  point-of-sale systems
 
 
 **Business Architecture**
-Business Architecture for a retail comp is like mapping out how  store actually runs day-to-day. It covers everything from how you manage inventory to how you handle customer service. This includes defining  key business processes, such as:
+Business Architecture for a retail comp is like mapping out how store actually runs day-to-day. It covers everything from how you manage inventory to how you handle customer service. This includes defining  key business processes, such as:
 how products are sourced and ordered
 how inventory is managed across stores and warehouses
 The process of customer purchases, both in-store and online
@@ -24,7 +24,7 @@ Business Architecture also outlines the structure of  organization, defining rol
 
 
 **Information/Data Architecture**
-Information/Data Architecture in retail is all about managing the lifeblood of  business: data. It's like organizing a massive library of information about  products, customers, sales, and operations. This architecture defines:
+It's like organizing a massive library of information about  products, customers, sales, and operations. This architecture defines:
 What types of data you collect (e.g., customer information, sales data, inventory levels)
 how this data is stored and organized
 Who has access to different types of data
