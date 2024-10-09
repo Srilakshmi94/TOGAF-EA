@@ -42,6 +42,8 @@ Inventory management systems,
 Supply chain management applications,
 Business intelligence tools for data analysis,
 The Application Architecture ensures that these different systems can communicate with each other effectively. For example, it might define how  online store connects with  inventory system to provide real-time stock information to customers. It also includes plans for future software needs, such as mobile apps for customers or AI-powered recommendation engines.
+
+
 **Technology Architecture**
 Technology Architecture is the foundation that supports all  business operations. It's like the plumbing and electrical systems in a house - you don't see it, but it's crucial for everything to work. This includes:
 Hardware infrastructure (computers, servers, cash registers, barcode scanners),
