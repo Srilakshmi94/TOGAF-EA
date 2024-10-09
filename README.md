@@ -14,10 +14,10 @@ For a retail business, EA might encompass everything from  point-of-sale systems
 
 **Business Architecture**
 Business Architecture for a retail comp is like mapping out how  store actually runs day-to-day. It covers everything from how you manage inventory to how you handle customer service. This includes defining  key business processes, such as:
-How products are sourced and ordered
-How inventory is managed across stores and warehouses
+how products are sourced and ordered
+how inventory is managed across stores and warehouses
 The process of customer purchases, both in-store and online
-How returns and exchanges are handled
+how returns and exchanges are handled
 Customer loyalty programs and marketing strategies
 Business Architecture also outlines the structure of  organization, defining roles and responsibilities. It might include plans for expanding to new locations or adding new product lines. The goal is to create a clear, efficient structure that supports  business goals and helps you serve customers better.
 
@@ -26,10 +26,10 @@ Business Architecture also outlines the structure of  organization, defining rol
 **Information/Data Architecture**
 Information/Data Architecture in retail is all about managing the lifeblood of  business: data. It's like organizing a massive library of information about  products, customers, sales, and operations. This architecture defines:
 What types of data you collect (e.g., customer information, sales data, inventory levels)
-How this data is stored and organized
+how this data is stored and organized
 Who has access to different types of data
-How data flows between different systems (e.g., from point-of-sale to inventory management)
-How data is used to make business decisions
+how data flows between different systems (e.g., from point-of-sale to inventory management)
+how data is used to make business decisions
 For a retail business, this might include systems for tracking customer purchases and preferences, managing real-time inventory across multiple locations, and analyzing sales trends. Good Information Architecture ensures that you have the right data at the right time to make informed decisions, personalize customer experiences, and optimize  operations.
 
 
