@@ -20,6 +20,9 @@ The process of customer purchases, both in-store and online
 How returns and exchanges are handled
 Customer loyalty programs and marketing strategies
 Business Architecture also outlines the structure of  organization, defining roles and responsibilities. It might include plans for expanding to new locations or adding new product lines. The goal is to create a clear, efficient structure that supports  business goals and helps you serve customers better.
+
+
+
 **Information/Data Architecture**
 Information/Data Architecture in retail is all about managing the lifeblood of  business: data. It's like organizing a massive library of information about  products, customers, sales, and operations. This architecture defines:
 What types of data you collect (e.g., customer information, sales data, inventory levels)
