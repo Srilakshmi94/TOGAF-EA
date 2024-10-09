@@ -6,9 +6,7 @@ For example,  vision might include having seamless integration between physical 
 
 **Enterprise Architecture (EA)**
  is the master plan that brings together all aspects of  retail business. It's like creating a detailed map of  entire organization, showing how different parts interact and work together. This includes  business processes, information systems, and technology infrastructure.
-For a retail business, EA might encompass everything from  point-of-sale systems and inventory management to  e-commerce platform and customer relationship management tools. It helps you understand how changes in one area might affect others, allowing you to make informed decisions about improvements or new initiatives. EA also helps identify redundancies or inefficiencies, enabling you to streamline operations and reduce costs
-Enterprise Architecture (EA) is the master plan that brings together all aspects of  retail business. It's like creating a detailed map of  entire organization, showing how different parts interact and work together. This includes  business processes, information systems, and technology infrastructure.
-For a retail business, EA might encompass everything from  point-of-sale systems and inventory management to  e-commerce platform and customer relationship management tools. It helps you understand how changes in one area might affect others, allowing you to make informed decisions about improvements or new initiatives. EA also helps identify redundancies or inefficiencies, enabling you to streamline operations and reduce costs
+For a retail business, EA might encompass everything from  point-of-sale systems and inventory management to  e-commerce platform and customer relationship management tools. It helps you understand how changes in one area might affect others, allowing you to make informed decisions about improvements or new initiatives. 
 
 
 **Business Architecture**
